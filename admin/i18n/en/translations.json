@@ -1,11 +1,11 @@
 {
-	"Config": "Configuring the OpenDTU WebUI connection",
-	"Scheme": "Security",
-	"WebAddress": "IP Address",
-	"WebPort": "Port",
-	"WebPoll": "refresh after x seconds",
-	"WebPassword": "WebUI Password",
-	"OtherConfig": "Other configurations",
-	"ProtNames": "Protect self-defined names from being overwritten by the adapter",
-	"StatesToZero": "Setting the states to 0 if the inverter is not available"
+    "Config": "Configuring the OpenDTU WebUI connection",
+    "Scheme": "Security",
+    "WebAddress": "IP Address",
+    "WebPort": "Port",
+    "WebPoll": "refresh after x seconds",
+    "WebPassword": "WebUI Password",
+    "OtherConfig": "Other configurations",
+    "ProtNames": "Protect self-defined names from being overwritten by the adapter",
+    "StatesToZero": "Setting the states to 0 if the inverter is not available"
 }
